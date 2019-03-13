@@ -29,7 +29,7 @@ Install the project by:
 
 ```
 $ git clone https://github.com/ranjanbinwani/Junkie.git
-$ cd ecommerce
+$ cd Junkie
 $ npm install
 $ node server
 
