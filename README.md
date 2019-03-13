@@ -28,7 +28,7 @@ The data is accessed using [faker.js](https://github.com/marak/Faker.js/).
 Install the project by:
 
 ```
-$ git clone git@github.com:caraclarke/amazon-clone.git
+$ git clone https://github.com/ranjanbinwani/Junkie.git
 $ cd ecommerce
 $ npm install
 $ node server
